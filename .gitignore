@@ -1,0 +1,8 @@
+*
+*.exe
+!*.cpp
+!*/
+!*.hpp
+!*.h
+!*.md
+!.gitignore
